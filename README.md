@@ -117,41 +117,6 @@ tutorial 分支为项目的主分支，每一篇教程的代码都和历史提�
 
    具体请参阅 [创作后台开启，请开始你的表演](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/65/)。
 
-## 教程目录索引
-
-**基础**
-
-1. [开始进入 django 开发之旅](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/59/)
-2. ["空空如也"的博客应用](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/60/)
-3. [创建 Django 博客的数据库模型](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/61/)
-4. [Django 迁移、操作数据库](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/62/)
-5. [Django 的接客之道](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/63/)
-6. [博客从“裸奔”到“有皮肤”](https://www.zmrenwu.com/courseqs/hellodjango-blog-tutorial/materials/64/)
-7. [创作后台开启，请开始你的表演](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/65/)
-8. [开发博客文章详情页](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/66/)
-9. [让博客支持 Markdown 语法和代码高亮](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/67/)
-10. [Markdown 文章自动生成目录，提升阅读体验](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/68/)
-11. [自动生成文章摘要](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/69/)
-12. [页面侧边栏：使用自定义模板标签](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/70/)
-13. [分类、归档和标签页](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/71/)
-14. [交流的桥梁：评论功能](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/72/)
-15. [优化博客功能细节，提升使用体验](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/73/)
-16. [Nginx+Gunicorn+Supervisor 部署 Django 博客应用](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/74/)
-17. [使用 Fabric 自动化部署](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/75/)
-18. [使用 Certbot 向 Let's Encrypt 免费申请 HTTPS 证书](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/76/)
-19. [使用 Docker 让部署 Django 项目更加轻松](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/77/)
-20. [开发博客文章阅读量统计功能](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/78/)
-21. [Django 官方推荐的姿势：类视图](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/79/)
-22. [在脚本中使用 ORM：Faker 批量生成测试数据](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/80/)
-23. [通过 Django Pagination 实现简单分页](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/81/)
-24. [稳定易用的 Django 分页库，完善分页功能](https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/82/)
-
-## 公众号
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:70%;"><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
-</p>
-
 
 ## 声明
 <img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际 </a>进行许可。
